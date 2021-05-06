@@ -3,16 +3,21 @@
     padding: 0%;
     text-transform: capitalize;
 }
+.navb{
+    background-color: teal;
+}
 .nm{
+    color: white !important;
+    text-shadow:black 1px 3px 4px !important ;
     font-family: 'Dancing Script', cursive;
     font-size: 50px !important;
 }
-.li{
+li>a{
     font-size: 23px;
     font-weight: 400;
-    text-shadow: rgb(150, 143, 143) 1px 3px 4px ;
+    color: white !important;
 }
-.li:hover{
+li>a:hover{
     font-weight: 600;
 }
 .img1{

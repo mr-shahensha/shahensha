@@ -53,3 +53,8 @@ h2{
     font-size: 40px;
     font-family: 'Indie Flower', cursive;
 }
+.mv{
+    padding: 50px;
+    background-color: rgb(228, 225, 225) !important;
+    border-top: black solid 1px !important;
+}

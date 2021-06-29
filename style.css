@@ -3,6 +3,11 @@
     padding: 0%;
     text-transform: capitalize;
 }
+
+.dark{
+    background-color: black;
+    color: white;
+}
 .navb{
     background-color: teal;
 }

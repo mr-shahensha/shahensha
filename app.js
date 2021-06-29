@@ -17,3 +17,7 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+$("li:last").click(function(){
+  $("body").toggleClass("dark");
+});
